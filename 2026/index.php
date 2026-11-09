@@ -598,6 +598,12 @@ $projects = [
     </style>
 </head>
 
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-KLTSMZB2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 
 <body>
 
